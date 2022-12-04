@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Estagiario de Suporte/Desenvolvimento<br>Curanso Análise e Desenvolvimento de Sistemás<br>Front-End
 
 
